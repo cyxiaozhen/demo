@@ -1,0 +1,10 @@
+export { default as 潮州市 } from "./chaozhou";
+export { default as 东莞市 } from "./dongguan";
+export { default as 佛山市 } from "./foshan";
+export { default as 广州市 } from "./guangzhou";
+export { default as 河源市 } from "./heyuan";
+export { default as 惠州市 } from "./huizhou";
+export { default as 江门市 } from "./jiangmen";
+export { default as 揭阳市 } from "./jieyang";
+export { default as 茂名市 } from "./maoming";
+export { default as 梅州市 } from "./meizhou";

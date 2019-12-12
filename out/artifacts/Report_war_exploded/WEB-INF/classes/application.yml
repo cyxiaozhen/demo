@@ -1,0 +1,6 @@
+spring:
+  datasource:
+    url: jdbc:mysql://localhost/testsql?useUnicode=true&characterEncoding=utf8
+    username: root
+    password: xiaozhen
+    driver-class-name: com.mysql.jdbc.Driver
